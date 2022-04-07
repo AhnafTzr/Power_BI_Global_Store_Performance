@@ -8,4 +8,4 @@
 
 **Description:**
 
-This is a A Power BI dashboard to showcase Regional Store performance from Global Sales data from a practice dataset. The practice data was extracted from Accura Analytics server.
+This is a A Power BI dashboard to showcase Regional Store performance from Global Sales data from a practice dataset.
